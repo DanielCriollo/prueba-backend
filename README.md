@@ -26,7 +26,7 @@ Sigue estos pasos para levantar el proyecto en tu entorno local:
 
 1.  **Clonar el repositorio**
     ```bash
-    git clone <url-del-repo>
+    git clone https://github.com/DanielCriollo/prueba-backend
     cd prueba-backend
     ```
 
